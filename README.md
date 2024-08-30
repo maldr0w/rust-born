@@ -1,5 +1,5 @@
 # rust-born
-rust playground for my fetal rust skills
+rust playground for my rust skills
 
 yada-yada
 lul
